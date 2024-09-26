@@ -11,12 +11,12 @@
 
 - 📫 How to reach me **buseuysal3158@gmail.com**
 
-# Connect with me:
-<p align="left">
+# 🤝Connect with me:
+<p align="left">,
 <a href="https://linkedin.com/in/buse17uysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buse17uysal" height="30" width="40" /></a>
 </p>
 
-# Language and Tools:
+# 💻 Language and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
