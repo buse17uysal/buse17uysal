@@ -1,4 +1,5 @@
 ![MasterHead](https://img.freepik.com/free-vector/robot-vs-human-flat-vector-illustration-robotic-machine-tired-woman-working-computer-office-humanoid-versus-person-artificial-intelligence-challenging-employee-modern-ai-technology_88138-552.jpg?t=st=1727364068~exp=1727367668~hmac=ade08fce96ae2da46da0f07fac20ee8fd1a781bf647be78eab7effc88674f39c&w=1380)
+![](https://komarev.com/ghpvc/?username=buse17uysal&color=blue)
 
 <div align="center">
  <a href="https://github.com/buse17uysal">
