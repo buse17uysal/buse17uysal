@@ -34,5 +34,5 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/buse17uysal/buse17uysal/blob/output/github-contribution-grid-snake.gif)
 
