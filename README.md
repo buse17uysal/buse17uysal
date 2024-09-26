@@ -13,7 +13,7 @@
 
 # 🤝Connect with me:
 <p align="left">,
-<a href="https://linkedin.com/in/buse17uysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buse17uysal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/buse-uysal-9889302a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buse17uysal" height="30" width="40" /></a>
 </p>
 
 # 💻 Language and Tools:
